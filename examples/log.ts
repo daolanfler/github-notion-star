@@ -6,7 +6,7 @@ import { github } from '../libs/github';
 import { writeFile } from 'fs';
 import path from 'path';
 
-notion.updatePage();
+// notion.updatePage();
 
 async function run() {
     await github.fullSync();

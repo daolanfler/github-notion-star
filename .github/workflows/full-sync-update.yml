@@ -1,4 +1,4 @@
-name: FullSync Notion Star
+name: FullSync and Update Notion Star
 
 on:
   workflow_dispatch:
